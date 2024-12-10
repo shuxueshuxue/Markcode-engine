@@ -9,9 +9,12 @@ It's a complex system composed of two parts.
 First, an Obsidian plugin called [markcode engine](https://github.com/shuxueshuxue/Markcode-engine), which is designed to run Python scripts in Obsidian environment.
 
 Key commands offered by this plugin include:
-`Markcode Engine: Run Code `
-`Markcode Engine: Run Script `
-`Markcode Engine: Stop Running`
+
+```
+Markcode Engine: Run Code
+Markcode Engine: Run Script
+Markcode Engine: Stop Running
+```
 
 Second, an extensive set of modules and scripts. It currently relies on PowerShell scripts to compile and execute code from other programming languages (C++, Rust, Haskell, JavaScript). So if you want to use this functionality make sure PowerShell is installed.
 

@@ -33,7 +33,22 @@ vaultRoot
 
 It is strongly recommended to use the [fix-require-modules](https://github.com/mnaoumov/obsidian-fix-require-modules), [Templater]( https://github.com/SilentVoid13/Templater ) and [Codeblock Customizer](https://github.com/mugiwara85/CodeblockCustomizer) along with this system.
 
+## Script Hotkeys Manager
+
+Hotkeys can be set up this way:
+- Edit the `Scripts/Script Hotkey Manager.md` file
+- Execute command `Markcode Engine: Run Code` to **extract code file**
+- Restart Obsidian to apply change
+
+for more details, refer to [Writing Code In A Decentralized Way - JFR's Mathematical Lab](https://publish.obsidian.md/jeffry/Blogs/Markcode/Writing+Code+In+A+Decentralized+Way)
+
 ## Example Usage
+
+### Run Custom Scripts
+
+- Currently, it requires using [QuickAdd](https://github.com/chhoumann/quickadd) plugin to execute the script `Scripts/✨ Run Script.js`.
+
+![](assets/Markcode%20engine%20document-1.png)
 
 ### Run Rust Code
 

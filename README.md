@@ -27,7 +27,7 @@ vaultName
 	- Logs
 ```
 
-It is strongly recommended to use the Templater and Codeblock Customizer plugin along with this system.
+It is strongly recommended to use the Fix Require Modules, Templater and Codeblock Customizer plugin along with this system.
 
 ## Example Usage
 
@@ -40,10 +40,12 @@ Suppose it's `D:\Codebase\rustplay`. Then open an arbitrary note in your Obsidia
 ```push fold
 D:\Codebase\rustplay\src\main.rs
 ```
+
 ```python fold
 import testflow
 testflow.rustplay()
 ```
+
 ```rust
 // your code here
 ```

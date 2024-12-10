@@ -16,7 +16,7 @@ Markcode Engine: Run Script
 Markcode Engine: Stop Running
 ```
 
-Second, an extensive set of modules and scripts. It currently relies on PowerShell scripts to compile and execute code from other programming languages (C++, Rust, Haskell, JavaScript). So if you want to use this functionality make sure PowerShell is installed.
+Second, an extensive set of [modules and scripts](https://github.com/shuxueshuxue/Markcode-modules). It currently relies on PowerShell scripts to compile and execute code from other programming languages (C++, Rust, Haskell, JavaScript). So if you want to use this functionality make sure PowerShell is installed.
 
 The folder structure of your Obsidian vault should be set up as this:
 
@@ -27,7 +27,7 @@ vaultName
 	- Logs
 ```
 
-It is strongly recommended to use the Fix Require Modules, Templater and Codeblock Customizer plugin along with this system.
+It is strongly recommended to use the [fix-require-modules](https://github.com/mnaoumov/obsidian-fix-require-modules), [Templater]( https://github.com/SilentVoid13/Templater ) and [Codeblock Customizer](https://github.com/mugiwara85/CodeblockCustomizer) along with this system.
 
 ## Example Usage
 

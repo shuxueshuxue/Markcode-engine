@@ -1,5 +1,9 @@
 > A programmer should program the way s/he programs.
 
+⚠️ **Important**: This system requires TWO components to work:
+1. [Markcode Engine](https://github.com/shuxueshuxue/Markcode-engine) - The core Obsidian plugin
+2. [Markcode Modules](https://github.com/shuxueshuxue/Markcode-modules) - The modules and scripts
+
 This system turns Obsidian into an IDE with features including:
 - Execute multiple programming languages
 - Block-based code composing (notebook like experience)
@@ -21,7 +25,7 @@ Second, an extensive set of [modules and scripts](https://github.com/shuxueshuxu
 The folder structure of your Obsidian vault should be set up as this:
 
 ```
-vaultName
+vaultRoot
 	- Modules
 	- Scripts
 	- Logs

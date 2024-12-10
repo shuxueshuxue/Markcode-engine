@@ -1,0 +1,12 @@
+
+{
+	"id": "markcode-engine",
+	"name": "Markcode Engine",
+	"version": "0.0.1",
+	"minAppVersion": "1.6.7",
+	"description": "The engine for the Markcode system.",
+	"author": "Jeffry",
+	"authorUrl": "",
+	"helpUrl": "",
+	"isDesktopOnly": true
+}

@@ -50,6 +50,8 @@ for more details, refer to [Writing Code In A Decentralized Way - JFR's Mathemat
 
 ![](assets/Markcode%20engine%20document-1.png)
 
+- The `EditText` script allow user to send instruction to LLMs to edit the selected text.
+
 ### Run Rust Code
 
 First, set up an external rust project.
